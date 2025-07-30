@@ -55,7 +55,7 @@ The application has been tested for critical-path scenarios including adding, up
 - Add user authentication and role-based access.
 
 ## Author
-Created by [Your Name]
+Created by [Utkarsh Singh]
 
 ## License
 This project is licensed under the MIT License.
